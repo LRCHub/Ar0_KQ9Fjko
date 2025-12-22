@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フロアキラー",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-22T14:29:22.088456Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロアキラー",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_フロアキラー_≠ME.txt"
+    }
+  ]
+}
